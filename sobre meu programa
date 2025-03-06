@@ -1,0 +1,18 @@
+Para o codigo funcionar em outras maquinas é preciso:
+
+Instale o Python e o tkinter, se necessário.
+Copie o código para a nova máquina.
+Execute o código e verifique se o banco de dados clinica.db está sendo criado corretamente.
+Certifique-se de que as permissões de escrita no diretório estejam configuradas corretamente.
+
+
+
+
+-O objetivo do projeto é desenvolver um sistema de cadastro de pacientes para a clínica "Saúde & Bem-Estar", que facilite o gerenciamento dos dados dos pacientes e 
+automatize o cálculo do IMC (Índice de Massa Corporal). Com isso, a clínica poderá evitar erros que ocorrem com o registro manual, além de tornar o processo de consulta e edição de dados mais ágil e eficiente.
+
+-O sistema permitirá registrar informações como nome, idade, peso e altura dos pacientes, e calculará automaticamente o IMC com base nesses dados. Também oferecerá funcionalidades para consultar, 
+editar ou excluir registros, melhorando a organização e a acessibilidade das informações.
+
+-Quanto às tecnologias utilizadas, embora não estejam especificadas no texto, um sistema desse tipo geralmente pode ser desenvolvido utilizando linguagens de programação como Python, Java ou JavaScript,
+além de bancos de dados como MySQL ou MongoDB para armazenar as informações dos pacientes. Também pode-se considerar o uso de frameworks para facilitar a criação da interface do usuário, como React ou Angular.
