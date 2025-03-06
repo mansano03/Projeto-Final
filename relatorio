@@ -1,0 +1,5 @@
+O que o sistema deve fazer: O sistema deve permitir o cadastro, exibição, edição e exclusão de pacientes, além de calcular o IMC automaticamente.
+Fluxos de trabalho: O fluxo envolve o preenchimento de dados, validação, cálculo do IMC, inserção no banco de dados e atualização da interface.
+Entradas e saídas: O sistema recebe dados do usuário (nome, idade, peso, altura), realiza cálculos e validações, e exibe as informações ou mensagens de erro/sucesso ao usuário.
+
+
