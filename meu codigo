@@ -146,4 +146,5 @@ for col in columns:
 criar_tabela()
 mostrar_pacientes()
 
+
 janela.mainloop()
